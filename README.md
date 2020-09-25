@@ -10,5 +10,3 @@ List of APIs used
 
 Link to video => https://youtu.be/fN93HdjjJ3A
 
-Instructions for my CLI -
-1)  
